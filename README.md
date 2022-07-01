@@ -1,2 +1,2 @@
-# Image-Processing
-Try &amp; See repo for Image Processing 
+# Binary-Tree
+Try &amp; See repo for Binary Tree Algorithym
